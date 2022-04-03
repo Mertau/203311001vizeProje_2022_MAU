@@ -1,6 +1,6 @@
 {
-    "name": "stylish",
-    "short_name": "stylish",
+    "name": "mau",
+    "short_name": "mau",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
